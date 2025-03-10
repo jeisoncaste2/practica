@@ -1,0 +1,156 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:blueviolet;
+    text-align: center;
+    height: 1200px;
+}
+#container{
+    background-color:blueviolet;
+    width: 95%;
+    height: 150px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    
+}
+header{
+    background-color: azure;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 140px;
+    border:2px solid black;
+}
+nav{
+    background-color: rgb(144, 88, 196);
+    width: 95%;
+    height: 35px;
+    margin: auto;
+    margin-top: 50px;
+    padding-top: 10px;
+    border:2px solid black;
+}
+#container2{
+    background-color:blueviolet;
+    width: 95%;
+    margin: auto;
+    display: flex;
+
+}
+section{
+    background-color: azure;
+    width: 25%;
+    height: 840px;
+    border:2px solid black;
+}
+#nav2{
+    background-color:rgb(147, 31, 255);
+    width: 90%;
+    margin: auto;
+    height: 410px; 
+    margin-top: 20px;
+}
+aside{
+    background-color: blueviolet;
+    width: 80%;
+    margin: auto;
+    height:250px ;
+    margin-top: 50px;
+    border:2px solid black;
+}
+#section2{
+background-color:azure;
+width: 73%;
+margin-left: 30px;
+height: 840px;
+}
+#header2{
+background-color:blueviolet;
+width: 95%;
+margin-top: 20px;
+height: 50px;
+}
+article{
+    background-color: blueviolet;
+    width: 95%;
+    height:235px ;
+    margin: auto;
+    margin-top: 60px;
+    border:2px solid black;
+
+}
+#header3{
+    background-color: white;
+    width: 96%;
+    margin-top: 20px;
+    height: 50px;
+}
+
+#container3{
+    background-color: blueviolet;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#div3{
+    background-color: white;
+    width: 57%;
+    height: 30px;
+    border: 2px solid black;
+    margin: auto;
+}
+
+#aside2{
+    background-color: white;
+    margin: auto;
+    width: 35%;
+    height: 31px;
+}
+#p1{
+    background-color: white;
+    width: 96%;
+    height: 40px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    border: 2px solid black;
+}
+#div4{
+    background-color: white;
+    height: 30px;
+    border: 2px solid black;
+    width: 96%;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+#article2{
+    height: 220px;
+}
+#header4{
+    background-color: white;
+    width: 96%;
+    margin-top: 20px;
+    height: 50px;
+}
+
+footer{
+    background-color: blueviolet;
+    width: 96%;
+    margin-left: 1rem;
+    border: 2px solid black;
+    margin-top: 5rem;
+    height: 45px;
+}
+
+#footer2{
+    background-color: white;
+    height: 60px;
+    width: 95%;
+    margin-top: 1rem;
+    margin-left: 2rem;
+
+}
